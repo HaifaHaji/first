@@ -1,0 +1,11 @@
+ git branch
+
+$ git branch new_branch
+
+$ git add .
+
+$ git commit -m "branch"
+
+$ git push origin new_branch
+
+

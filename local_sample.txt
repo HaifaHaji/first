@@ -8,3 +8,17 @@ manually done
 3.staging
 4.commit
 5.push
+
+
+$ git clone https://github.com/HaifaHaji/first.git  -- this is https key
+
+$ cd first/ --folder name
+$ git pull
+
+$ git add .
+
+$ git commit -m "created local file"
+
+$ git push
+
+
